@@ -86,6 +86,12 @@ supply_chain_tracking_system/
 
 ---
 
+## Team Members
+
+1. Lokesh Sable (Co-ordinator)
+2. Yashwant Lohande
+3. Rakesh Pawade
+---
 ## Example
 
 ```
@@ -120,4 +126,5 @@ In-Transit: 1
 Delivered: 0
 Delayed: 0
 Report saved as: reports/report_04_10_2025.txt
+
 ```
